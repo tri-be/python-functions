@@ -1,0 +1,1 @@
+# 1. Write a function named `sum_to()` that takes a number parameter `n` and returns the sum of the numbers from 1 to n. For example:
